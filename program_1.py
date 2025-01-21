@@ -5,8 +5,3 @@ def hello_world():
 
 hello_world()
 
-#Programmer: Alethea Lo
-#Date: 1/21/25
-
-#Display text
-print('Hello, World.')
